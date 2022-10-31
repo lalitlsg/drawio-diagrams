@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T18:33:52.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TmY9iO_SSlZ7Y0ziaUFC" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-31T18:35:42.983Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="cmbfeHp-X6mBGFmvcPok" version="20.5.1" type="github" pages="2">
   <diagram id="FAUrZl2jpU0iiJWrHZ5c" name="Components">
     <mxGraphModel dx="1234" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,6 +182,9 @@
         </mxCell>
         <mxCell id="N5NuvX952stHL5PjviHd-14" value="Downstream Services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="197" y="266" width="183" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="N5NuvX952stHL5PjviHd-15" value="Types of Services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;dashed=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="76" y="343" width="152" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
