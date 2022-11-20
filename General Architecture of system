@@ -1,1 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T12:13:26.610Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.5.1" etag="zlDttfWUu6GI9fC6qB4d" type="github"><diagram id="hnJg81bRnN0IEBy_qIxI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-20T12:27:20.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ey7NhOVyGJmApnWEPuqz" version="20.5.1" type="github">
+  <diagram id="hnJg81bRnN0IEBy_qIxI" name="Page-1">
+    <mxGraphModel dx="1634" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZS4Roew_3bmdu-hZ9b97-1" target="ZS4Roew_3bmdu-hZ9b97-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-1" value="www.netflix.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-43" y="159" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZS4Roew_3bmdu-hZ9b97-2" target="ZS4Roew_3bmdu-hZ9b97-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZS4Roew_3bmdu-hZ9b97-2" target="ZS4Roew_3bmdu-hZ9b97-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="17" y="426" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="305" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZS4Roew_3bmdu-hZ9b97-5" target="ZS4Roew_3bmdu-hZ9b97-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-5" value="CDN" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/CDN_Profiles.svg;" vertex="1" parent="1">
+          <mxGeometry x="-17" y="485" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZS4Roew_3bmdu-hZ9b97-8" target="ZS4Roew_3bmdu-hZ9b97-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZS4Roew_3bmdu-hZ9b97-8" target="ZS4Roew_3bmdu-hZ9b97-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZS4Roew_3bmdu-hZ9b97-8" target="ZS4Roew_3bmdu-hZ9b97-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="401" width="225" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-9" value="Api Gateways" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="594" width="92" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZS4Roew_3bmdu-hZ9b97-10" target="ZS4Roew_3bmdu-hZ9b97-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="453" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.cluster_server;" vertex="1" parent="1">
+          <mxGeometry x="358" y="451" width="49" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-13" value="Gateway services/servers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="523" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="194" width="225" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-37" value="Service 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="329" width="68" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZS4Roew_3bmdu-hZ9b97-39" target="ZS4Roew_3bmdu-hZ9b97-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-39" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="544" y="216" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-40" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.cluster_server;" vertex="1" parent="1">
+          <mxGeometry x="677" y="214" width="49" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-41" value="Applicaiton Hosts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="674" y="286" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="380" width="225" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-43" value="Service 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="614.5" y="512" width="68" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZS4Roew_3bmdu-hZ9b97-45" target="ZS4Roew_3bmdu-hZ9b97-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-45" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="546" y="391" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-46" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.cluster_server;" vertex="1" parent="1">
+          <mxGeometry x="679" y="389" width="49" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-47" value="Applicaiton Hosts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="676" y="461" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="581" width="225" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-49" value="Service 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="614.5" y="716" width="68" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZS4Roew_3bmdu-hZ9b97-51" target="ZS4Roew_3bmdu-hZ9b97-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-51" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="546" y="603" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-52" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.cluster_server;" vertex="1" parent="1">
+          <mxGeometry x="679" y="601" width="49" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS4Roew_3bmdu-hZ9b97-53" value="Applicaiton Hosts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="676" y="673" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
