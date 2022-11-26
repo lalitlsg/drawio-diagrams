@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T14:50:07.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.5.3" etag="ZVAFVQr42ZzElXfvF7nD" type="github"><diagram id="akABlS9TxUXKfMEWKmXT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-26T14:51:21.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="GwJN6zctt4Rf5eIMUJl7" version="20.5.3" type="github">
+  <diagram id="akABlS9TxUXKfMEWKmXT" name="Page-1">
+    <mxGraphModel dx="1234" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xMw-_mM6OozRmUcSrd8g-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fontSize=15;" edge="1" parent="1" source="xMw-_mM6OozRmUcSrd8g-1" target="xMw-_mM6OozRmUcSrd8g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xMw-_mM6OozRmUcSrd8g-1" value="Browser" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="124" y="307" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xMw-_mM6OozRmUcSrd8g-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fontSize=15;" edge="1" parent="1" source="xMw-_mM6OozRmUcSrd8g-2" target="xMw-_mM6OozRmUcSrd8g-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xMw-_mM6OozRmUcSrd8g-2" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="337" y="307" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xMw-_mM6OozRmUcSrd8g-3" value="Origin Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="537" y="307" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
